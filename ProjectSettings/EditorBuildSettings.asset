@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/GameView.unity
+    guid: 0fd4e3d9dd1201b4e95627a254961a4d
+  - enabled: 1
+    path: Assets/Scenes/Instructions_View.unity
+    guid: 8e8460d49a00f2a4892ce2a065e05935
+  - enabled: 1
+    path: Assets/Scenes/Credits_View.unity
+    guid: b39034e6f5cc2b24e9019fdd3b3571cf
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 140cd8caae6424f4892d07b0453476da
+  - enabled: 1
+    path: Assets/Scenes/YouWin_View.unity
+    guid: b4c6f898ec582f84781cc6c4f6f4d6cf
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelTWO.unity
+    guid: 7863e10f96bba114a8731a02b2df6f09
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level2.unity
+    guid: d18503e098ca12d4bb83f1d93794ed20
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level3.unity
+    guid: 6f95d8ef8cc973a41939ac4465357fc1
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 11405c4151e0cda40a86ae7f8315eb14, type: 2}
